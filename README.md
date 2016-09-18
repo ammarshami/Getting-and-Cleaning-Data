@@ -1,5 +1,6 @@
 # Getting And Cleaning Data Project
 
+====================================
 ##This project is for Getting and Cleaning Data of Coursera.
 *The "run_analysis.R" code performs the following:
 *1. Creates the GettingData directory if it does not exist
