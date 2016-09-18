@@ -11,4 +11,4 @@ The run_analysis.R code performs the following:
 6. Keep only the columsn related to Mean and Standard Deviation
 7. Creates an ID out of activity and subject columns 
 8. Creates the tidy dataset that consists of the average (mean) value of each variable for each subject and activity combination
-9. Writes the end result is written to the file tidy.txt.
+9. Writes the end result is written to the file tidy.txt.# Getting-and-Cleaning-Data
