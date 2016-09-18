@@ -18,10 +18,10 @@ This cookbook summarizes the results that appear in the tidy.txt file.
 6. LAYING (value 6): subject was laying down during the test
 
 ##Measurements
-timeBodyAccelerometer-mean()-X
-timeBodyAccelerometer-mean()-Y
-timeBodyAccelerometer-mean()-Z
-timeBodyAccelerometer-std()-X
+* timeBodyAccelerometer-mean()-X
+* timeBodyAccelerometer-mean()-Y
+* timeBodyAccelerometer-mean()-Z
+* timeBodyAccelerometer-std()-X
 timeBodyAccelerometer-std()-Y
 timeBodyAccelerometer-std()-Z
 timeGravityAccelerometer-mean()-X
